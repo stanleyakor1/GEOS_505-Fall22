@@ -3,4 +3,4 @@
 ## Stanley Akor
 
 
-Email: [stanleyakor@u.boisestate.edu](stanleyakor@u.boisestate.edu)
+Email: [stanleyakor@u.boisestate.edu](mailto:stanleyakor@u.boisestate.edu)
