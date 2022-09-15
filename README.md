@@ -5,6 +5,17 @@
 
 Email: [stanleyakor@u.boisestate.edu](mailto:stanleyakor@u.boisestate.edu)
 
+
+
+
+
+
+
+
+
+
+
+
 ## Goals for the Semester
 
 1. **Understanding software best practices** 
