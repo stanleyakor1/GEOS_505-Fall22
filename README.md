@@ -20,4 +20,4 @@ Email: [stanleyakor@u.boisestate.edu](mailto:stanleyakor@u.boisestate.edu)
 
 1. Understanding software best practices
 2. Improving my coding skills
-3. Improving my team work abilities
+3. Improving my team-work abilities
