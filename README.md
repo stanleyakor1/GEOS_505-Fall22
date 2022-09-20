@@ -13,7 +13,7 @@ To Culminate my master’s program, I studied the wind power density (WPD) over 
 
 
 
-
+![Seasonal_wpd_trend](https://user-images.githubusercontent.com/107439769/191145979-81a016b7-071d-459b-8603-ec0bd77476bd.png)
 
 
 ## Goals for the Semester
